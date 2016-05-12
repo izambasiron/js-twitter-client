@@ -1,0 +1,12 @@
+body {
+    padding-top: 70px;
+}
+#whoToFollow {
+    margin-bottom: 50px;
+}
+.tweet {
+    margin-bottom: 20px;
+}
+#newTweet {
+    margin-bottom: 20px;
+}
